@@ -1,2 +1,2 @@
 # HelloWorld
-Hello World Java APp
+Hello World Java application
